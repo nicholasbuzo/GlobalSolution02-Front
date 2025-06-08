@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Background Circle -->
+        <circle fill="#E3F2FD" cx="400" cy="400" r="350"/>
+        
+        <!-- Map Icon -->
+        <g transform="translate(250, 200)">
+            <path d="M300,0 C322.09139,0 340,17.90861 340,40 L340,260 C340,282.09139 322.09139,300 300,300 L40,300 C17.90861,300 0,282.09139 0,260 L0,40 C0,17.90861 17.90861,0 40,0 L300,0 Z" fill="#2196F3"/>
+            <path d="M40,20 L300,20 C310.49341,20 320,29.50659 320,40 L320,260 C320,270.49341 310.49341,280 300,280 L40,280 C29.50659,280 20,270.49341 20,260 L20,40 C20,29.50659 29.50659,20 40,20 Z" fill="#FFFFFF"/>
+            
+            <!-- Location Markers -->
+            <circle fill="#2196F3" cx="100" cy="100" r="15"/>
+            <circle fill="#2196F3" cx="200" cy="150" r="15"/>
+            <circle fill="#2196F3" cx="150" cy="200" r="15"/>
+            
+            <!-- Connection Lines -->
+            <path d="M100,100 L200,150 L150,200" stroke="#2196F3" stroke-width="4" stroke-linecap="round"/>
+        </g>
+        
+        <!-- 404 Text -->
+        <g transform="translate(400, 500)">
+            <text font-family="Arial-BoldMT, Arial" font-size="72" font-weight="bold" fill="#2196F3">
+                <tspan x="-120" y="0">404</tspan>
+            </text>
+        </g>
+        
+        <!-- Decorative Elements -->
+        <circle fill="#2196F3" opacity="0.1" cx="200" cy="200" r="50"/>
+        <circle fill="#2196F3" opacity="0.1" cx="600" cy="600" r="50"/>
+        <circle fill="#2196F3" opacity="0.1" cx="600" cy="200" r="30"/>
+        <circle fill="#2196F3" opacity="0.1" cx="200" cy="600" r="30"/>
+    </g>
+</svg> 
