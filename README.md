@@ -73,6 +73,9 @@ O sistema utiliza a OpenWeather API para obter dados meteorológicos em tempo re
 - Vento: > 30km/h
 - Qualidade do ar: > 100 AQI
 
+## Link Vídeo YouTube
+[https://youtu.be/ncpe5RQVSKc](https://youtu.be/ncpe5RQVSKc)
+
 ## Integrantes
 
 - João Victor Ignacio Madella - RM561007
